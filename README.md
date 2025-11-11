@@ -1,1 +1,1 @@
-This repository provides the three datasets used in the study “From fresh to dry: Moth body weight changes through preservation.” The data include measurements from laboratory-reared, field-collected, and museum-preserved moths, used to quantify body weight changes across developmental and preservation stages.
+
